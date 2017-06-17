@@ -15,4 +15,3 @@ build/
 tests/report/
 myvenv/
 *.DSStore
-*settings.py
