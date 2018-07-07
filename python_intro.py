@@ -34,6 +34,7 @@ if volume < 20 or volume > 80:
     volume = 50
     print("That's better!")
 
+
 def hi(name):
     if name == 'Ola':
         print('Hi Ola!')
